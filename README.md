@@ -1,2 +1,5 @@
-# predict_loan_status
-Predict loan status using SVM
+This project predicts loan status given gender, education and other features. 
+
+Model used - support vector machine (SVM)
+
+Dataset used - https://www.kaggle.com/datasets/ninzaami/loan-predication
